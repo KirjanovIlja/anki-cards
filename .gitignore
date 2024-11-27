@@ -1,3 +1,33 @@
+# Project specific files
 anki/**
 datasets/dev/**
 **.ipynb
+
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Jupyter Notebook files
+*.ipynb_checkpoints
+*.ipynb
+
+# Virtual environment folders
+venv/
+ENV/
+env/
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+
+# Anki generated files
+*.apkg
