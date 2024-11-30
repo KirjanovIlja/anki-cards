@@ -31,3 +31,8 @@ Thumbs.db
 
 # Anki generated files
 *.apkg
+
+
+# Decks
+
+**/decks/**
